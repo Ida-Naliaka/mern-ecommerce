@@ -1,0 +1,121 @@
+export const sliderItems = [
+  {
+    id: 1,
+    img: "https://online.visual-paradigm.com/repository/images/abf181a9-142b-45d5-b9f1-9d2195eb2eb6/posters-design/black-friday-sale-promotion-poster.png",
+    title: "BLACK FRIDAY",
+    desc: "DON'T COMPROMISE ON QUALITY! GET UP TO 50% OFF ON BLACK FRIDAY DEALS.",
+    bg: "#e1f0fa",
+  },
+  {
+    id: 2,
+    img: "https://i.pinimg.com/originals/c5/80/a6/c580a65fa92b19f9aa8101f9cd315890.jpg",
+    title: "CLEARANCE SALE",
+    desc: "LEVEL UP YOUR FESTIVE BAKING WITH OUR PACKAGING.",
+    bg: "#f7e0e3",
+  },
+  {
+    id: 3,
+    img: "https://lincolnvillageseniorliving.com/wp-content/uploads/2017/11/LV-Bake-Salev2.jpg",
+    title: "FESTIVE FUNDRAISER",
+    desc: "GIVE BACK BY SUPPORTING OUR ANNUAL FESTIVE FUNDRAISER.",
+    bg: "#ffd9f5",
+  },
+];
+
+export const categories = [
+  {
+    id: 1,
+    img: "https://img.freepik.com/premium-photo/top-view-baking-supplies-table_23-2148566653.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    title: "INGREDIENTS",
+    cat: "Ingredients",
+  },
+  {
+    id: 2,
+    img: "https://www.jagranjosh.com/imported/images/E/Articles/setzzzzzzzz.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    title: "BAKEWARE",
+    cat: "Bakeware",
+  },
+  {
+    id: 3,
+    img: "http://sc04.alicdn.com/kf/Hdc8a37ff8e084a63af15641a1e12fecba.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    title: "PACKAGING",
+    cat: "Packaging",
+  },
+  {
+    id: 4,
+    img: "https://www.bakingkneads.com/wp-content/uploads/2018/01/IS-Stand-Mixer.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    title: "EQUIPMENT",
+    cat: "Equipment",
+  },
+];
+
+export const popularProducts = [
+  {
+    id: 1,
+    name: "Dairyland Dark Compound",
+    brand: "Dairyland",
+    price: 550,
+    weight: "500g",
+    img: "https://i1.wp.com/saifeecandy.co.ke/wp-content/uploads/2021/06/DAIRYLAND-DARK-COMPOUND-500GM.jpg",
+    cat: "ingredients",
+  },
+  {
+    id: 2,
+    name: "Pristine non-dairy whipping cream",
+    brand: "Pristine",
+    price: 600,
+    weight: "1 litre",
+    img: "https://royalkart.co.ke/wp-content/uploads/2021/02/pristine-royal-kart-kenya.png?v=1606780388",
+    cat: "ingredients",
+  },
+  {
+    id: 3,
+    name: "Emborg dairy whipping cream",
+    brand: "Emborg",
+    price: 1000,
+    weight: "1 litre",
+    img: "https://cdn.shopify.com/s/files/1/0244/3401/6290/products/whipping-cream-154758_1024x.jpg?v=1626937504",
+    cat: "ingredients",
+  },
+  {
+    id: 4,
+    name: "Caroline's fondant,red",
+    brand: "Caroline's",
+    price: 500,
+    weight: "500g",
+    img: "https://images.yaoota.com/bEhNlHpeZnhqhAZ6XVz4yBqhztI=/trim/yaootaweb-production-ke/media/crawledproductimages/2defce04e82ff87f5616b97f04bafb0b9ca15d27.jpg",
+    cat: "ingredients",
+  },
+  {
+    id: 5,
+    name: "7 speed handheld mixer",
+    brand: "Scarlett",
+    price: 1100,
+    img: "https://biashara.co.ke/wp-content/uploads/2020/11/852258.jpg",
+    cat: "equipment",
+  },
+  {
+    id: 6,
+    name: "3pc round cake tins",
+    brand: "Generic",
+    price: 1000,
+    img: "https://royalkart.co.ke/wp-content/uploads/2021/02/Carbon-Steel-Cake-tin-royal-kart-kenya.jpeg",
+    cat: "bakeware",
+  },
+  {
+    id: 7,
+    name: "Silicone cupcake liners (12pc)",
+    brand: "Generic",
+    price: 700,
+    img: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/79/351145/1.jpg?0441",
+    cat: "packaging",
+  },
+  {
+    id: 8,
+    name: "KitchenAid Stand Mixer",
+    brand: "KitchenAid",
+    price: 15000,
+    img: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/307943/1.jpg?5824",
+    cat: "equipment",
+  },
+];
